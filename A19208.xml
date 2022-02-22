@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French iubile: or, The ioy and thanksgiuing of all France, to God and their king, for the death of the Marquise d'Ancre. Translated out of the French copie printed at Paris</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1617</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19208</idno>
+            <idno type="STC">STC 5618</idno>
+            <idno type="STC">ESTC S108610</idno>
+            <idno type="EEBO-CITATION">99844267</idno>
+            <idno type="PROQUEST">99844267</idno>
+            <idno type="VID">9064</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9064)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 984:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French iubile: or, The ioy and thanksgiuing of all France, to God and their king, for the death of the Marquise d'Ancre. Translated out of the French copie printed at Paris</title>
+               </titleStmt>
+               <extent>[4], 20, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Felix Kyngston for Nathanael Newbery, and are to be sold at his shop vnder S. Peters Church in Cornehill, and in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1617.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Original French title not traced.</note>
+                  <note>Signatures: A-C⁴ E⁴.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Concini, Concino, --  maréchal d'Ancre, ca. 1575-1617.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:9064:1"/>
+            <pb facs="tcp:9064:1" rendition="simple:additions"/>
+            <p>THE FRENCH IVBILE: <hi>OR,</hi> THE IOY AND THANKSGIVING of all <hi>France,</hi> to God and their King, for the death of the Marquiſe <hi>d'Ancre.</hi>
+            </p>
+            <p>Tranſlated out of the French Copie printed at Paris.</p>
+            <figure>
+               <q>BY WISDOME PEACE BY PEACE PLENTY.</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON Printed by <hi>Felix Kyngſton</hi> for <hi>Nathanael New<g ref="char:EOLhyphen"/>bery,</hi> and are to be ſold at his ſhop vnder S. <hi>Peters</hi> Church in Cornehill, and in Popes-head Alley. 1617.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:9064:2"/>
+            <pb facs="tcp:9064:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Onest and well affected Reader, for thy greater contentment, I am bold to pre<g ref="char:EOLhyphen"/>ſent thee with this Iubile of the whole French Nation vpon the death of the Marquiſe <hi>de'Ancre:</hi> this ioy hath been manife<g ref="char:EOLhyphen"/>ſted on all hands, by all ſorts and degrees. The King to ſhew how acceptable the ſeruice of Moun<g ref="char:EOLhyphen"/>ſier <hi>de Vitry</hi> was to him in this execution, hath made him thereupon Marſhall of <hi>France,</hi> in the place of the Marquiſe <hi>d'Ancre:</hi> And Mounſier <hi>d'Hailler,</hi> who accompanied <hi>d'Vitry</hi> in that ac<g ref="char:EOLhyphen"/>tion, hath hee cauſed to be ſworne Captaine of his Guard; and many other of the ancient Officers of the Crowne hath he restored to their places, abſo<g ref="char:EOLhyphen"/>lutely taking the gouernment to himſelfe: and lea<g ref="char:EOLhyphen"/>uing (as he ſaith) all childiſh ſports to his brother, he hath cauſed to be ſet at liberty thoſe little Birds, wherein hee formerly delighted, that ſo they may haue their libertie as well as himſelfe. The Princes (vpon it) are ſome of them returned to Court, and others expected daily, euery one laying downe
+<pb facs="tcp:9064:3"/>Armes preſently, and amongst others the Duke <hi>d'Mayen</hi> preſented the King with the keyes of <hi>Soy<g ref="char:EOLhyphen"/>ſons,</hi> a towne which he had fortified.</p>
+            <p>The generall and extraordinary reioycing of the common people cannot be ſufficiently expreſſed; but becauſe I liſt not to trouble thee (good Reader) with vncertaine and ſlender reports, I referre thee for the full manifestation of their generall ioy to the diſcourſe following; intreating thee to be per<g ref="char:EOLhyphen"/>ſwaded of my honest fidelitie and care in theſe pub<g ref="char:EOLhyphen"/>lications, for J aſsure thee J am not deſirous to ſhew my ſelfe both falſe and fooliſh in Print. Farewell.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:9064:3"/>
+            <head>THE FRENCH IVBILE: <hi>OR,</hi> THE IOY AND THANKSGIVING of all <hi>France,</hi> to God and their King, for the death of the Marquiſe <hi>d'Ancre.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>IR:</salute>
+            </opener>
+            <p>Amongſt many confor<g ref="char:EOLhyphen"/>mities, betweene your Ma<g ref="char:EOLhyphen"/>ieſtie, and <hi>Alexander</hi> the Great, theſe are the moſt e<g ref="char:EOLhyphen"/>uident: firſt, that he was the ſonne (as you are) of a fa<g ref="char:EOLhyphen"/>mous Captaine, and a great King; then, he ſuc<g ref="char:EOLhyphen"/>ceeded him very young, as your Maieſtie did to great <hi>Henry;</hi> and after his death the moſt part of his ſubiects reuolted, as yours did. And yet aboue all the reſt, this is the moſt particu<g ref="char:EOLhyphen"/>lar obſeruation, that in his youth ſome Gre<g ref="char:EOLhyphen"/>cians (and <hi>Demosthenes</hi> amongſt the reſt) not vnderſtanding him well, calld him an infant:
+<pb facs="tcp:9064:4"/>euen as ſome Frenchmen conceiuing leſſe of your Maieſtie, haue been ſo impudent to ſay as much: yea though hee ſhewed himſelfe to be a man, and the greateſt man of the world, euen as your Maieſtie giues euident teſtimo<g ref="char:EOLhyphen"/>nie that you are no leſſe.</p>
+            <p>Sir: It is true, there is this difference, that <hi>Alexander</hi> made his greatneſſe appeare to the Grecians, to their loſſe and preiudice; but you manifeſt yours to the French, for their benefit and preſeruation.</p>
+            <p>
+               <hi>Alexander</hi> made it knowne by the loſſe of their libertie; but you diſplay your greatnes, by the ſupplantation of a Tyrannie eſtabliſh<g ref="char:EOLhyphen"/>ed in your State, by the moſt inſolent, outra<g ref="char:EOLhyphen"/>gious, and inſupportable ſtranger that euer was knowne. Sir: in concluſion, <hi>Alexander</hi> employed his firſt armes againſt the Grecians, who then were enemies to the Barbarians; and you haue applied yours, againſt a barbarous enemie to your royall authoritie: who tram<g ref="char:EOLhyphen"/>pled vnder his feet, the faireſt flowers of your Crowne, and did ſo maſtiue-like teare <hi>France</hi> in peeces, as ſhe can neuer ſufficiently enough expreſſe the Tyrannie.</p>
+            <p>Sir: I will not exclaime vpon a dead body;
+<pb facs="tcp:9064:4"/>but ſo true it is, I neuer lou'd him when he was aliue, &amp; yet I hated him but as a meere French man, intereſſed onely in the generall oppreſ<g ref="char:EOLhyphen"/>ſion of your ſubiects: I grieued together with them to ſee a man of ſmall worth, one of little reputation in any reſpect, not commended for any vertue; a man of no eſteeme or reckoning in the world, eſpecially in France (into which he came without any qualitie or place) to riſe in a moment, to ſuch a redoubted power and greatneſſe, that there was not a gentleman in your Court who adored him not; nor a knee, which did not idolatrouſly bend not only to himſelfe, but to his meaneſt creatures: there was no Officer of your Crowne, that trem<g ref="char:EOLhyphen"/>bled not before him; no Court nor Councell that feared him not, no places which hee ſold not, no royall reuenewes that he did not poll; no Seales nor Keepers of Seales, which he did not depriue or conferre; nor no Territorie within your Eſtate, which hee was not able to raſe, and tumultuate at his owne will and pleaſure.</p>
+            <p>I haue read the Hiſtory of our Kings from <hi>Faramond,</hi> and obſeru'd the Mayors of the Royall Palace, which in the end diſpoſſeſſed
+<pb facs="tcp:9064:5"/>their Maſters: the Grecians, and Romans haue had but few Tyrants, of whoſe liues, and hi<g ref="char:EOLhyphen"/>ſtories, I haue not a reaſonable vnderſtanding and knowledge: but neither in them, nor elſewhere, did I euer reade, or heare of ſuch a like Tyrannie as this: for theſe were conten<g ref="char:EOLhyphen"/>ted to tyrannize ouer the people, whom they had wickedly ſubdued; but this man being a ſtranger and leſſe then a ſubiect in France, did rule, and ſway ouer the King, and the people. He was full gorg'd with abundance in your neceſſities, he would haue an hundred men at his heeles, when you ſhould haue but ten; and that in your preſence, and before the very beames of your Maieſtie, where no other lu<g ref="char:EOLhyphen"/>ſtre ſhould appeare: euen as no ſtarre, nor light appears in the firmament before the Sunne. Briefly, he ſo beleaguerd your Maie<g ref="char:EOLhyphen"/>ſtie, as there was no entertainment into your ſeruice, but by his meanes; neither had you a ſeruant in your houſe, whom you almoſt durſt receiue, from any other, then his re<g ref="char:EOLhyphen"/>commendation.</p>
+            <p>Nay, if he had ſtaied here, it might haue bin tolerable: but to replunge vs into our inte<g ref="char:EOLhyphen"/>ſtine warres, to open the gates of <hi>Ianus</hi> Tem<g ref="char:EOLhyphen"/>ple,
+<pb facs="tcp:9064:5"/>which you ſhut, to kindle againe thoſe fu<g ref="char:EOLhyphen"/>rious ciuill flames, which at firſt were ſet on fire by his meanes, and by your Maieſtie hap<g ref="char:EOLhyphen"/>pily extinguiſhed: and after the raiſing vp of a dangerous ſtorme among the French, rack<g ref="char:EOLhyphen"/>ing of their ſubſtance, and purloining of your owne treaſure, in the view and knowledge of all the world, he further coueted to glut him<g ref="char:EOLhyphen"/>ſelfe with their blood; and yet to vaunt and brag impudently, how hee ſpent his owne goods in your ſeruice, he that in your Fathers dayes was but a baſe companion. And what French-man was there, whoſe heart did not bleed to ſee theſe opprobies? Yet neuerthe<g ref="char:EOLhyphen"/>leſſe, Sir, both great and ſmall, though they were his capitall enemies, and beſides the common apprehenſion of a publike iniurie, daily either in generall or particular wrong<g ref="char:EOLhyphen"/>ed, yet they ſwallowed theſe indignities; Hea<g ref="char:EOLhyphen"/>uen reſeruing the glory, and reuenge thereof onely to your Maieſtie.</p>
+            <p>But thankes bee giuen to God Sir; who hath made you looke ſo circumſpectly into your people, and cleered your ſight in ſo mi<g ref="char:EOLhyphen"/>ſtie a ſeaſon; cauſing vs alſo plainly to diſ<g ref="char:EOLhyphen"/>cerne, that the harts of Kings are in his hands,
+<pb facs="tcp:9064:6"/>and that he hath touched yours, cauſing your Maieſtie to vnderſtand, that your beare not the hand of Iuſtice in vaine, ſeeing you now begin to yeeld vnto your ſubiects ſo good a teſtimonie thereof; when Sir, it was impoſſi<g ref="char:EOLhyphen"/>ble, but that the wiſhes and prayers of ſo ma<g ref="char:EOLhyphen"/>ny good men ſhould at laſt bee heard: and a<g ref="char:EOLhyphen"/>ſcribe not the principal hereof to your ſelfe, but let God haue his part and hand therein: And his exceeding great, long, and ſlow Iu<g ref="char:EOLhyphen"/>ſtice being now wearie, with the patient endu<g ref="char:EOLhyphen"/>ring of ſo odious a reproach to all France, meant to employ your Maieſty, for the reſti<g ref="char:EOLhyphen"/>tution of his owne honour; and to make this Tyrant, together with his owne blood, to diſ<g ref="char:EOLhyphen"/>charge the generall ſubſtance of your ſub<g ref="char:EOLhyphen"/>iects, which hee hath before ſo greedily de<g ref="char:EOLhyphen"/>uoured. But who euer ſaw ſo vaſt a gulph? what profunditie can bee imagined, which might not haue been filled with his rapines? Or what inſatiable and monſtrous famine might not be ſatisfied with the things that hee did deuoure?</p>
+            <p>So that (after God) Sir, your Maieſtie in one blow hath remedied all theſe diſorders, with ſo much Iuſtice, happineſſe, and pru<g ref="char:EOLhyphen"/>dence,
+<pb facs="tcp:9064:6"/>as can no more bee deſired: You haue made all the world ſee, that you are truly a King, and that you will raigne and execute Iuſtice: you haue remoued all pretext and colour of diſcord from amongſt the French, who will now knit and vnite themſelues to ſerue your Maieſtie, conuerting the ſword they had drawne one againſt another, to the augmentation of your Crowne and Scepter. Wee hope, Sir, that vnder ſo valiant, and ſo iuſt a King, who is ſo deere to his ſubiects, and his ſubiects to him, wee ſhall diſplay the en<g ref="char:EOLhyphen"/>ſignes of your glorious armes ouer all the world; that in ſtead of murthering one ano<g ref="char:EOLhyphen"/>ther in Ciuill warres, whereof can enſue no o<g ref="char:EOLhyphen"/>ther but <hi>Cadmean</hi> victories, and your Maieſty in winning but looſe and beweakened, wee ſhall make ſtrangers to acknowledge, that the Flowers <hi>de-luce</hi> hauing bin buried in obliui<g ref="char:EOLhyphen"/>on for a time amongſt them, ſhall flouriſh a<g ref="char:EOLhyphen"/>gaine vnder the felicities and fortunes of your Maieſtie, more fragrantly, then euer they did vnder the Kings your royall Proge<g ref="char:EOLhyphen"/>nitors, who planted them with the ſword in the remoteſt parts of the earth: that vnder an inuincible Prince we ſhall alſo be victorious:
+<pb facs="tcp:9064:7"/>and that the French generoſitie reſuming new vigor and force vnder ſuch a King, ſhal make you greater then <hi>Henrie</hi> the great; more holy then Saint <hi>Lewys;</hi> more Imperiall then <hi>Philip;</hi> and more victorious and conquering then <hi>Charlemaine:</hi> your Realme ſhall bee greater, and more redoubtable then euer was his Em<g ref="char:EOLhyphen"/>pire; your Scepter then his ſword, and your reputation, then his name.</p>
+            <p>And becauſe Sir, you haue firſt ſatisfied herein the Iuſtice of God, who not content with the blood and life onely of this common enemie of all your ſubiects, and your royall ſelfe, but perſecuting him further after his death, hath depriued him of his funerall rites, which your Maieſtie granted vnto him: who put into the peoples mindes (without any warrant, or order giuen, nay contrary to a prohibition) to take his carcaſſe out of the graue, whereof it was vnworthie, and out of the earth, which but yeſterday he thought vn<g ref="char:EOLhyphen"/>worthie to beare him; and to traile it igno<g ref="char:EOLhyphen"/>miniouſly along the ſtreets, and hanging it vpon the ſame Gibbet himſelfe had formerly cauſed to be erected, to burne the miſerable remainder of his body, with all the madneſſe
+<pb facs="tcp:9064:7"/>and furie, that an inraged people could vſe vpon an infamous Carrion.</p>
+            <p>And beſides this, you haue heerein giuen good ſatisfaction to men, in reuenging the honour of the French Nation; and in his owne blood quenching ſo many firebrands, as hee meant to kindle in France. That by the death of ſuch a criminall partie, you haue ſaued the liues of ſo many innoce<g ref="char:cmbAbbrStroke">̄</g>ts, ſtopped the courſe of ſo many euils, appeaſed ſo many commo<g ref="char:EOLhyphen"/>tions, ſecured ſo many townes, brought peace to your Kingdome, and repoſe to your peo<g ref="char:EOLhyphen"/>ple, ſecuritie to the Clergie, contentment to the Nobilitie, and authoritie and reputation to Iuſtice; purchaſing by this onely meanes, more loue amongſt your ſubiects, and repu<g ref="char:EOLhyphen"/>tation with ſtrangers, then the victorie of ten fought fields could haue gotten you.</p>
+            <p>Wee moſt humblie acknowledge, that this was truly the Lords day, wherein he did, and doth continually great things: and wee be<g ref="char:EOLhyphen"/>ſeech him, that as it hath pleaſed him ſo ſa<g ref="char:EOLhyphen"/>credly to inſpire your Maieſty, he may vouch<g ref="char:EOLhyphen"/>ſafe to continue euer the ſame fauours to<g ref="char:EOLhyphen"/>wards you, to preſerue him, who hath preſer<g ref="char:EOLhyphen"/>ued
+<pb facs="tcp:9064:8"/>vs, and to multiplie vpon your life, all the benedictions of true happineſſe. And Sir, wee moſt ſincerely proteſt, that as you haue in this action preſerued the Frenchmens blood; ſo they ſhal neuer be more deſirous of any thing, then to ſhead the ſame in your Maieſties ſer<g ref="char:EOLhyphen"/>uice: that ſeeing your are their Prince as well in effect, as name, and title, no more violent paſſion ſhall euer poſſeſſe them, then to make it euidently appeare that they are your loyall ſubiects; that they will neuer brooke any o<g ref="char:EOLhyphen"/>ther Soueraigne, nor neuer ſwarue from the fidelitie they haue ſworne to you. That the Nobilitie will euer recognize you for their head, the people for their Father; the Church for her eldeſt Sonne, Iuſtice for her prote<g ref="char:EOLhyphen"/>ctor; and all of them ioyntly together, for the beſt King that this day liues.</p>
+            <p>They wiſh, that your faire deſtinies may ſpin as long a thred of your life, and glory of your Conqueſts, as there be ages in the con<g ref="char:EOLhyphen"/>tinuance, or climates in the worlds large ex<g ref="char:EOLhyphen"/>tent. That your Maieſtie being a new <hi>Alcides</hi> amongſt the French, may purge the earth of all monſters, reſtore the honours of armes,
+<pb facs="tcp:9064:8"/>augment the eſtimation of learning, puniſh your enemies, and cheriſh your ſubiects. That your proſperities may ſurmount our wiſhes, and your owne deſires: that you may not onely obtaine victory, but poſ<g ref="char:EOLhyphen"/>ſeſſe the States of thoſe that would enioy yours.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
